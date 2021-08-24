@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Jr software developer and I have specialized in mobile development 🖥 📱.
+I'm a Jr software developer and I focus on mobile development. 🖥 📱.
 
 I like creating mobile applications and UX / UI design 🎨 
 
