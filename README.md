@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Jr software developer and I have specialized in mobile development.
+
+I like creating mobile applications and UX / UI design, I am currently at BEDU in their Mobile Application Development program with kotlin for Android, I also like to collaborate and contribute as well as acquire new knowledge from the most experienced.
+
 
 
 
@@ -17,7 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielColoradoCamal&layout=compact&theme=merko)
 
-</br>
 
 ![Colorado's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielColoradoCamal&theme=merko&show_icons=true)
 
