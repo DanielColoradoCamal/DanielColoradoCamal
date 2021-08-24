@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a Jr software developer and I have specialized in mobile development.
+I'm a Jr software developer and I have specialized in mobile development 🖥 📱.
 
-I like creating mobile applications and UX / UI design, I am currently at BEDU in their Mobile Application Development program with kotlin for Android, I also like to collaborate and contribute as well as acquire new knowledge from the most experienced.
+I like creating mobile applications and UX / UI design 🎨 
+
+I'm currently at BEDU in their Mobile Application Development program with kotlin for Android, I also like to collaborate and contribute as well as acquire new knowledge from the most experienced. 🥇
 
 
 
