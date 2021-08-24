@@ -7,6 +7,8 @@ I like creating mobile applications and UX / UI design 🎨
 I'm currently at BEDU in their Mobile Application Development program with kotlin for Android, I also like to collaborate and contribute as well as acquire new knowledge from the most experienced. 🥇
 
 
+I am a lover of good coffee ☕️, videogames 🎮, and good music 🎸
+
 
 
 
