@@ -18,7 +18,8 @@ I am a lover of good coffee ☕️, videogames 🎮, and good music 🎸
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Android](https://img.shields.io/badge/Pyhton-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Pyhton-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
