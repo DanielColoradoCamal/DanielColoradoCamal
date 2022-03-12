@@ -1,16 +1,7 @@
-### Hi there 👋
+## Hola
 
-I'm a Jr software developer and I focus on mobile development. 🖥 📱.
-
-I like creating mobile applications and UX / UI design 🎨 
-
-I'm currently at BEDU in their Mobile Application Development program with kotlin for Android, I also like to collaborate and contribute as well as acquire new knowledge from the most experienced. 🥇
-
-
-I am a lover of good coffee ☕️, videogames 🎮, and good music 🎸
-
-
-
+Soy ingeniero en sistemas y programador web, me apasiona lo que hago y me encanta enfrentarme a nuevos retos 🧑🏽‍💻.
+Me gusta crear aplicaciones móviles, desarrollo web, UX/UI y cocinar 👨🏽‍🍳 📱 💻.
 
 
 ## Skills:
@@ -34,18 +25,18 @@ I am a lover of good coffee ☕️, videogames 🎮, and good music 🎸
 
 
 
-## Find me at:
+## Encuentrame en:
 
 [![Facebook](https://img.shields.io/badge/Facebook-colorado_dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/DaniColoradoDev)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Colorado_dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/DaniColoradoDev)
 
 
-## Contact me:
+## contáctame:
 
-[![whatsApp](https://img.shields.io/badge/WhatsApp-MESSAGE_(FAST_RESPONSE)-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/+523131415723)
+[![whatsApp](https://img.shields.io/badge/WhatsApp-Respuesta_Rapida-green?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/+523131067444)
 </br>
-[![Email](https://img.shields.io/badge/danicolorado.dev@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danicolorado.dev@gmail.com)
+[![Email](https://img.shields.io/badge/danicolorado.dev@gmail.com-Correo_Electronico-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danicolorado.dev@gmail.com)
 
 
 
