@@ -1,6 +1,8 @@
 ## Hola
 
-Soy ingeniero en sistemas y programador web, me apasiona lo que hago y me encanta enfrentarme a nuevos retos 🧑🏽‍💻.
+Soy ingeniero en sistemas y programador web,
+me apasiona lo que hago y me encanta enfrentarme a nuevos retos 🧑🏽‍💻.
+
 Me gusta crear aplicaciones móviles, desarrollo web, UX/UI y cocinar 👨🏽‍🍳 📱 💻.
 
 
