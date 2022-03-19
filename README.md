@@ -1,9 +1,14 @@
 ## Hola
 
 Soy ingeniero en sistemas y programador web,
-me apasiona lo que hago y me encanta enfrentarme a nuevos retos 🧑🏽‍💻.
+me gusta crear aplicaciones moviles y paginas web, aun que me gusta el UX/UI y el front-end
+mi enfoque va mas al back-end.
 
-Me gusta crear aplicaciones móviles, desarrollo web, UX/UI y cocinar 👨🏽‍🍳 📱 💻.
+Me gusta estar siempre aprendiendo y disfruto crear nuevos proyectos
+Aun me queda un largo camino para ser el mejor pero vamos paso a paso aprendiendo
+cosas nuevas y diviertiendonos en el proceso.🧑🏽‍💻.
+
+Lo que mas me gusta es cocinar, programar y bailar 🕺🏾👨🏽‍🍳 📱 💻.
 
 
 ## Skills:
