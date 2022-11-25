@@ -1,16 +1,8 @@
-## Hola
+# Hola 👋🏽 soy Daniel 🧔🏽
 
-Soy ingeniero en sistemas y programador web,
-me gusta crear aplicaciones moviles y paginas web,
-<br>aun que me gusta el UX/UI y el front-end
-mi enfoque va mas al back-end.
+### Soy ingeniero en sistemas y programador web 👨🏽‍💻
 
-Me gusta estar siempre aprendiendo y disfruto crear nuevos proyectos
-aun me queda un largo camino para ser <br>el mejor pero vamos paso a paso aprendiendo
-cosas nuevas y diviertiendonos en el proceso. 🧑🏽‍💻
-
-Lo que mas me gusta es cocinar y programar. 👨🏽‍🍳 📱 💻.
-
+### Me gusta crear aplicaciones moviles y paginas web, </br>pero lo que mas disfruto es compartir mis conocimientos. 👨🏽‍🏫 
 
 ## Skills:
 
@@ -24,9 +16,6 @@ Lo que mas me gusta es cocinar y programar. 👨🏽‍🍳 📱 💻.
 [![Django](https://img.shields.io/badge/Django-3DDC8?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
 [![Postgresql](https://img.shields.io/badge/Postgresql-1B7DC5?style=for-the-badge&logo=Postgresql&logoColor=white&labelColor=101010)]()
 </br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielColoradoCamal&layout=compact&theme=merko)
-
 
 <!-- ![Colorado's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielColoradoCamal&theme=merko&show_icons=true) -->
 
